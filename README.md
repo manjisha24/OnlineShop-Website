@@ -3,6 +3,8 @@
 
 In the ever-evolving world of e-commerce, versatility and user-friendliness are key. This project aspires to create a comprehensive and secure e-commerce platform designed to accommodate both customers and sellers. Leveraging modern web technologies including HTML, CSS, JavaScript, Node.js, and Express.js, along with robust security measures such as Bcrypt, cloud capabilities via AWS SDK, and Firebase for authentication, this platform aims to facilitate seamless online transactions. Additionally, Stripe is integrated as the primary payment gateway for secure and efficient financial transactions.
 
+**Working Video of the project:** https://drive.google.com/file/d/17OYoQ1fKumUi1hfhWjl_o28gCNILA_eE/view?usp=sharing
+
 **Key Features:**
 
 **User Authentication:** Users can sign up or log in as either customers or sellers. Firebase handles user authentication, ensuring secure access to the platform with role-based permissions.
